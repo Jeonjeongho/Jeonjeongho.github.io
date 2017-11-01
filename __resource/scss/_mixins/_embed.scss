@@ -1,0 +1,7 @@
+@mixin embed-responsive-customize($x, $y) {
+    .embed-responsive-#{$x}by#{$y} {
+        &:before {
+            padding-top: percentage($y / $x);
+        }
+    }
+}

@@ -1,0 +1,38 @@
+/**
+ * --------------------------------------------------------------------------
+ * Typography
+ * --------------------------------------------------------------------------
+ */
+$font-family-sans-serif: "Noto Sans KR", "나눔고딕", NanumGothic, "돋움", Dotum, Arial, sans-serif !default;
+$font-family-serif: Georgia, "Times New Roman", Times, serif !default;
+$font-family-monospace: Menlo, Monaco, Consolas, "Courier New", monospace !default;
+
+$color-base: #666;
+$font-size-base: 14px !default;
+$line-height-base: (20 / 14) !default;
+$font-family-base: $font-family-sans-serif !default;
+
+
+
+/**
+ * --------------------------------------------------------------------------
+ * Responsive
+ * --------------------------------------------------------------------------
+ */
+$devices-extra-small: 420px;
+$devices-small: 768px;
+$devices-medium: 992px;
+$devices-large: 1200px;
+
+
+
+/**
+ * --------------------------------------------------------------------------
+ * Path
+ * --------------------------------------------------------------------------
+ */
+$image-url-base: "/assets/images" !default;
+$path: $image-url-base !default;
+
+$mobile-image-url-base: "/m/assets/images" !default;
+$path-m: $mobile-image-url-base !default;
