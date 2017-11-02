@@ -6,7 +6,6 @@
 
 
 ## skill
-| / | / |
 | :-------- | :-------- |
 | Main | html,html5,css,css3,javascript,jquery,webpack |
 | Sub | php |
