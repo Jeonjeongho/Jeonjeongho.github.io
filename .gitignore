@@ -7,7 +7,7 @@ assets/js/
 .DS_Store
 *.css.map
 *.js.map
-*.html
+#*.html
 !test.html
 handlebars.config.js
 hot

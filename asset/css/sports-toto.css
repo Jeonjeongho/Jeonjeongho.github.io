@@ -1,0 +1,17 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: #666;
+  font-size: 28px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border: 1px solid blue;
+}
+
+body div, html div {
+  background: red;
+  border: 1px solid green;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkQ6XFxnaXRcXEplb25qZW9uZ2hvLmdpdGh1Yi5pb1xcX19yZXNvdXJjZS9zY3NzXFxhcHAuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLFVBQVM7RUFDVCxXQUFVO0VBQ1YsOENBQTZDO0VBQzdDLFlBQVc7RUFDWCxnQkFBYztFQUNkLCtCQUFxQjtVQUFyQix1QkFBcUI7RUFDckIsdUJBQXFCO0NBTXhCOztBQWJEO0VBVVEsZ0JBQWM7RUFDZCx3QkFBc0I7Q0FDekIiLCJmaWxlIjoiYXBwLnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJib2R5LCBodG1sIHtcclxuICAgIG1hcmdpbjogMDtcclxuICAgIHBhZGRpbmc6IDA7XHJcbiAgICBmb250LWZhbWlseTogJ0hlbHZldGljYScsICdBcmlhbCcsIHNhbnMtc2VyaWY7XHJcbiAgICBjb2xvcjogIzY2NjtcclxuICAgIGZvbnQtc2l6ZToyOHB4O1xyXG4gICAgYm94LXNpemluZzpib3JkZXItYm94O1xyXG4gICAgYm9yZGVyOjFweCBzb2xpZCBibHVlO1xyXG5cclxuICAgIGRpdiB7XHJcbiAgICAgICAgYmFja2dyb3VuZDpyZWQ7XHJcbiAgICAgICAgYm9yZGVyOjFweCBzb2xpZCBncmVlbjtcclxuICAgIH1cclxufVxyXG4iXX0= */
