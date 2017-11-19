@@ -23,8 +23,8 @@ const config = {
     },
 
     entry : {
-        'asset/js/vendor' : ['babel-polyfill','jquery','url-search-params'],
-        'asset/js/sports-toto' : ['./js/_app','./scss/app.scss']
+        'assets/js/vendor' : ['babel-polyfill','jquery','url-search-params'],
+        'assets/js/sports-toto' : ['./js/_app','./scss/app.scss']
     },
     output : {
         path: path.resolve(__dirname, '../'),
@@ -72,13 +72,12 @@ const config = {
         ]
     },
     plugins: [
-        new ExtractTextPlugin('asset/css/sports-toto.css'),
+        new ExtractTextPlugin('assets/css/sports-toto.css'),
         new webpack.ProvidePlugin({
             $: 'jquery',
-            jQuery: 'jquery',
-            'window.jQuery': 'jquery'
+            jQuery: 'jquery'
         }),
-        new webpack.optimize.CommonsChunkPlugin('asset/js/vendor'),
+        new webpack.optimize.CommonsChunkPlugin('assets/js/vendor'),
         new HandlebarsPlugin({
             entryOutput: [
                 ['web/*.hbs', '[name].html'],

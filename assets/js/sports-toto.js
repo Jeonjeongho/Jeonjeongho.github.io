@@ -14,7 +14,7 @@ module.exports = __webpack_require__(332);
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_url_search_params__ = __webpack_require__(125);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_url_search_params__ = __webpack_require__(124);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_url_search_params___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_url_search_params__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__web_common__ = __webpack_require__(331);
 
@@ -46,12 +46,11 @@ document.addEventListener('DOMContentLoaded', function () {
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function($) {var Common = function Common() {
-    $("body").css({ "background": "#ccc" });
+var Common = function Common() {
+    //$("body").css({"background":"#ccc"});
 };
 
 /* harmony default export */ __webpack_exports__["a"] = (Common);
-/* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__(124)))
 
 /***/ }),
 
