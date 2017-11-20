@@ -1,4 +1,9 @@
 @import "./_vendor.scss";
+
+@keyframes line {
+    from {width:0;}
+    to {width: 95%;}
+}
 body, html {
     margin: 0;
     padding: 0;
@@ -48,18 +53,48 @@ body, html {
             nav {
                 a {
                     display: block;
+                    position:relative;
                     color: #fff;
                     padding:0 20px;
-                    line-height:40px;
-
+                    line-height:45px;
                     font : {
                         size:16px;
+                    }
+
+                    &:after, &:before {
+                        display: block;
+                        position:absolute;
+                        left:0;
+                        height:1px;
+                        background:#555;
+                        content:'';
+                    }
+                    &:after {
+                        bottom:0;
+                        width:0;
+                        transition:width 0.3s;
+                    }
+
+                    &:before {
+                        bottom:5px;
+                        width:0;
+                        background:#555;
+                    }
+
+                    &:hover:after {
+                        width:100%;
+                    }
+                    &:hover:before {
+                        animation:line 0.2s 0.3s both;
                     }
                 }
             }
         }
         &-content {
+            position:relative;
+            //height:100%;
             padding-left:300px;
+            box-sizing: border-box;
 
             h2 {
                 color:#000;
@@ -67,7 +102,9 @@ body, html {
             }
 
             & > section {
+                position:relative;
                 padding:15px;
+                //min-height:100%;
 
                 .contact-table {
 

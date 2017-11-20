@@ -1,5 +1,5 @@
 const Common = () => {
-    //$("body").css({"background":"#ccc"});
+    console.log("TEST");
 }
 
 export default Common;
