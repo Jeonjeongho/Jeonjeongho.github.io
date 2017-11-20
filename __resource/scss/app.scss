@@ -125,9 +125,10 @@ body, html {
                         margin:10px;
                         a {
                             display: block;
+                            overflow:hidden;
                             position:relative;
                             width:280px;
-                            height:280px;
+                            height:220px;
                             padding:5px;
                             border:1px solid #dcdcdc;
                             box-sizing: border-box;
@@ -195,10 +196,6 @@ body, html {
                                 }
                             }
 
-                            figure {
-                                display: block;
-                                overflow:hidden;
-                            }
                             img {
                                 width:100%;
                                 transform:scale(1);
