@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 "use strict";
 var Common = function Common() {
-    //$("body").css({"background":"#ccc"});
+    console.log("TEST");
 };
 
 /* harmony default export */ __webpack_exports__["a"] = (Common);
