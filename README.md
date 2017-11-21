@@ -14,11 +14,11 @@
 | name | url | 참여도 |
 | :-------- | :-------- | :-------- |
 | 스포츠토토(event) | https://totoevent.co.kr/ | 100% |
-| GROUP IDD HUB | # | 30% |
+| GROUP IDD HUB | http://hub.dbroscreative.com/# | 30% |
 | 비타500(고3이벤트) | http://www.ekdp.com/vita500/ | 80% |
-| LG Innotek | # | 80% |
-| sk이노베이션(이벤트) | # | 80% |
-| 인피니티 | # | 80% |
+| LG Innotek | 현재 리뉴얼 상태 | 80% |
+| sk이노베이션(이벤트) | https://www.skinnovation-idea.co.kr/ | 80% |
+| 인피니티 | http://www.infiniti-premier.co.kr/ | 80% |
 | 하이트진로 | https://www.hitejinro.com/ | 40% |
 | 던킨도너츠(리뉴얼) | http://www.dunkindonuts.co.kr/ | 70% |
 | 한국관광공사(여름,가을 여행이벤트) | # | 70% |
@@ -32,9 +32,9 @@
 | 오렌지에비뉴 [웹/모바일] | http://www.orangeave.co.kr/ | 100% |
 | 이리온몰 [웹/모바일] | http://www.irionmall.co.kr/ | 100% |
 | 포비즈코리아[반응형] | http://www.forbiz.co.kr/ | 80% |
-| 디디에듀보 | # | 70% |
-| KT비즈메카 | # | 100% |
-| 팜팜(반응형) | # | 100% |
-| KTsat (반응형) | # | 60% |
-| 세정몰 | # | 90% |
-| (주)CKCO& 커피전문 쇼핑몰 | # | 80% |
+| 디디에듀보 | 현재 리뉴얼 상태 | 70% |
+| KT비즈메카 | 현재 리뉴얼 상태 | 100% |
+| 팜팜(반응형) | 현재 리뉴얼 상태 | 100% |
+| KTsat (반응형) | 현재 리뉴얼 상태 | 60% |
+| 세정몰 | 현재 리뉴얼 상태 | 90% |
+| (주)CKCO& 커피전문 쇼핑몰 | 현재 리뉴얼 상태 | 80% |
