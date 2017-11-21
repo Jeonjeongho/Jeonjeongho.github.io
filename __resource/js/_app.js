@@ -20,6 +20,5 @@ const appInit = () => {
 document.addEventListener('DOMContentLoaded', () => {
     appInit();
     common();
-
-    // 추가 함수
+    
 });

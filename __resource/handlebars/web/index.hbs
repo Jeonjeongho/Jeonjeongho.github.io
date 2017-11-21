@@ -7,7 +7,7 @@
     <section class="main">
         {{> web/header }}
         <div class="main-content">
-            <section class="main-content-1">
+            <section class="main-content-1" id="porfile">
                 <h2>porfile</h2>
                 <ul class="list">
                     <li>
@@ -56,6 +56,19 @@
                                 <figcaption>
                                     <span>sk이노베이션(팩트x임팩트 대잔치)</span>
                                     <p>사연 신청 및 sns 공유 이벤트 webpack,html5,jquery 를 이용해 작업</p>
+                                </figcaption>
+                            </figure>
+                            <div class="overlay_box"></div>
+                            <div class="arrow"></div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://eng.eastern.or.kr/" target="_blank">
+                            <figure>
+                                <img src="{{path}}/porfile/img-eastern.jpg" alt="">
+                                <figcaption>
+                                    <span>동방사회복지회(영문)</span>
+                                    <p>동방사회복지 안내 및 후원안내 wordpress,html5,css3</p>
                                 </figcaption>
                             </figure>
                             <div class="overlay_box"></div>
@@ -231,9 +244,61 @@
                             <div class="arrow"></div>
                         </a>
                     </li>
+                    <li>
+                        <a href="#" target="_blank" class="renewal" data-site="renewal">
+                            <figure>
+                                <img src="{{path}}/porfile/img-arounz.jpg" alt="">
+                                <figcaption>
+                                    <span>어라운지 쇼핑몰</span>
+                                    <p>php 솔루션을 이용한 쇼핑몰</p>
+                                </figcaption>
+                            </figure>
+                            <div class="overlay_box"></div>
+                            <div class="arrow"></div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" target="_blank" class="renewal" data-site="renewal">
+                            <figure>
+                                <img src="{{path}}/porfile/img-kt.jpg" alt="">
+                                <figcaption>
+                                    <span>KT bizmeka 홈페이지</span>
+                                    <p>php 솔루션을 이용한 홈페이지</p>
+                                </figcaption>
+                            </figure>
+                            <div class="overlay_box"></div>
+                            <div class="arrow"></div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" target="_blank" class="renewal" data-site="renewal">
+                            <figure>
+                                <img src="{{path}}/porfile/img-kt2.jpg" alt="">
+                                <figcaption>
+                                    <span>KT sat 홈페이지</span>
+                                    <p>php 솔루션을 이용한 홈페이지</p>
+                                </figcaption>
+                            </figure>
+                            <div class="overlay_box"></div>
+                            <div class="arrow"></div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" target="_blank" class="renewal" data-site="renewal">
+                            <figure>
+                                <img src="{{path}}/porfile/img-sejungmall.gif" alt="">
+                                <figcaption>
+                                    <span>세정몰</span>
+                                    <p>php 솔루션을 이용한 쇼핑몰</p>
+                                </figcaption>
+                            </figure>
+                            <div class="overlay_box"></div>
+                            <div class="arrow"></div>
+                        </a>
+                    </li>
                 </ul>
             </section>
-            <section class="main-content-2">
+            <section class="main-content-2" id="about">
                 <h2>about</h2>
                 <div class="contact-table">
 					<table>
@@ -304,7 +369,7 @@
                     </figure>
                 </div>
             </section>
-            <section class="main-content-3">
+            <section class="main-content-3" id="contact">
                 <h2>contact</h2>
                 <div class="contact-table">
 					<table>
@@ -338,7 +403,12 @@
 					</table>
 				</div>
                 <div class="map">
-                    
+                    <div id="map"></div>
+                </div>
+                <div class="before-url">
+                    <p>
+                        이전 포트폴리오 URL <a href="http://jeongho.dothome.co.kr/" target="_blank">http://jeongho.dothome.co.kr/</a>
+                    </p>
                 </div>
             </section>
         </div>
