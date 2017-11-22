@@ -69,6 +69,7 @@ document.addEventListener('DOMContentLoaded', function () {
         $body.stop().animate({ scrollTop: $('#' + $(this).data('target')).offset().top }, 300);
         return false;
     });
+
     $window.scroll(function () {
         var scroll = $(this).scrollTop();
         var idx = 0;
