@@ -25,6 +25,7 @@ const Common = () => {
             $body.stop().animate({scrollTop:$('#'+$(this).data('target')).offset().top},300)
             return false;
         });
+
     $window.scroll(function(){
         let scroll = $(this).scrollTop();
         let idx = 0;
