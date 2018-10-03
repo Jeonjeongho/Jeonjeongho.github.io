@@ -1,7 +1,8 @@
 # Jeonjeongho.github.io
 | 근무기간 | 회사명 |
 | :-------- | :-------- |
-| 2016년 04월 ~ 재직중 | Group IDD |
+| 2016년 04월 ~ 재직중 | 펑타이그레이터차이나 유한회사 |
+| 2016년 04월 ~ 2018년 04월 | Group IDD |
 | 2013년 04월 ~ 2016년 03월 | 포비즈 코리아 |
 
 
@@ -13,6 +14,10 @@
 ## project
 | name | url | 참여도 |
 | :-------- | :-------- | :-------- |
+| 삼성 galaxy tab s4  | # | 70% |
+| 삼성닷컴(product,magazine) | https://www.samsung.com/sec/ | 운영 |
+| LF몰(DAKS)[웹/모바일]  | http://www.daks.co.kr/ | 70% |
+| LF몰(HAZZYS)[웹/모바일] | http://www.hazzys.com/ | 50% |
 | 스포츠토토(event) | https://totoevent.co.kr/ | 100% |
 | GROUP IDD HUB | http://hub.dbroscreative.com/# | 30% |
 | 비타500(고3이벤트) | http://www.ekdp.com/vita500/ | 80% |

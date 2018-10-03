@@ -3,7 +3,7 @@ const webpack = require('webpack');
 
 /*add start*/
 const ExtractTextPlugin = require("extract-text-webpack-plugin");
-const HandlebarsPlugin = require("handlebars-webpack-plugin");
+//const HandlebarsPlugin = require("handlebars-webpack-plugin");
 /*add end*/
 
 /*
@@ -78,12 +78,12 @@ const config = {
             jQuery: 'jquery'
         }),
         new webpack.optimize.CommonsChunkPlugin('assets/js/vendor'),
-        new HandlebarsPlugin({
+        /*new HandlebarsPlugin({
             entryOutput: [
                 ['web/*.hbs', '[name].html'],
                 ['web/event/*.hbs', 'event/[name].html']
             ]
-        })
+        })*/
     ]
 };
 
