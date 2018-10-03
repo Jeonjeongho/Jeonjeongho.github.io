@@ -14,7 +14,7 @@
 ## project
 | name | url | 참여도 |
 | :-------- | :-------- | :-------- |
-| 삼성 galaxy tab s4  | # | 70% |
+| 삼성 galaxy tab s4  | https://www.samsung.com/global/galaxy/galaxy-tab-s4/ | 70% |
 | 삼성닷컴(product,magazine) | https://www.samsung.com/sec/ | 운영 |
 | LF몰(DAKS)[웹/모바일]  | http://www.daks.co.kr/ | 70% |
 | LF몰(HAZZYS)[웹/모바일] | http://www.hazzys.com/ | 50% |
