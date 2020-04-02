@@ -15,7 +15,7 @@
 ## project
 | name | url | 참여도 |
 | :-------- | :-------- | :-------- |
-| 신세계 까사미아  | https://live.casamiashop.com/index | 70% |
+| 신세계 까사미아  | https://www.casamiashop.com/index | 70% |
 | 베럴  | https://www.getbarrel.com/ | 70% |
 | 서울국제공공광고제 | http://www.ipafseoul.org/#/| 90% |
 | 왈라뷰(세종텔레콤)  | https://www.wallavu.com/ | 80% |
