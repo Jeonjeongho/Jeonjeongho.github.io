@@ -8,7 +8,7 @@
 
 
 ## skill
-| Main | html,html5,css,css3,sass,javascript,jquery,webpack,vue |
+| Main | vue.js,webpack,javascript,jquery,html,html5,css,css3,sass |
 | :-------- | :-------- |
 | Sub | php |
 
