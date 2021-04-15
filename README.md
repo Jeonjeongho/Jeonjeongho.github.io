@@ -31,7 +31,7 @@
 | 인피니티 | http://www.infiniti-premier.co.kr/ | 80% |
 | 하이트진로 | https://www.hitejinro.com/ | 40% |
 | 던킨도너츠(리뉴얼) | http://www.dunkindonuts.co.kr/ | 70% |
-| 한국관광공사(여름,가을 여행이벤트) | # | 70% |
+| 한국관광공사(여름,가을 여행이벤트) | 서비스 종료 | 70% |
 | 베스킨라빈스(리뉴얼) | http://www.baskinrobbins.co.kr/ | 50% |
 | 릴라켓[포비즈코리아 서비스] | http://relaket.forbiz.co.kr/ | 100% |
 | 케논[웹,모바일] | https://biz.canon-bs.co.kr/ | 100% |
