@@ -15,7 +15,7 @@
 ## project
 | name | url | 참여도 |
 | :-------- | :-------- | :-------- |
-| 풀무원 통합 쇼핑몰  | https://shop.pulmuone.co.kr/ | - |
+| 풀무원 통합 쇼핑몰  | https://shop.pulmuone.co.kr/ | 70% |
 | 신세계 까사미아  | https://www.casamiashop.com/index | 70% |
 | 베럴  | https://www.getbarrel.com/ | 70% |
 | 서울국제공공광고제 | http://www.ipafseoul.org/#/| 90% |
