@@ -9,14 +9,14 @@
 
 
 ## skill
-| Main | vue.js,webpack,javascript,jquery,html,html5,css,css3,sass |
+| Main | vue.js, react.js, webpack,javascript,jquery,html,html5,css,css3,sass |
 | :-------- | :-------- |
 | Sub | php |
 
 ## project
 | name | url | 참여도 |
 | :-------- | :-------- | :-------- |
-| 넷마블 pc 런처 앱  |  | 80% |
+| 넷마블 pc 런처 앱  |  |  |
 | 풀무원 통합 쇼핑몰  | https://shop.pulmuone.co.kr/ | 70% |
 | 신세계 까사미아  | https://www.casamiashop.com/index | 70% |
 | 베럴  | https://www.getbarrel.com/ | 70% |
